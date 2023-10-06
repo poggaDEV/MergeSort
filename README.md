@@ -1,2 +1,0 @@
-# MergeSort
-Merge Sort yapımı.
